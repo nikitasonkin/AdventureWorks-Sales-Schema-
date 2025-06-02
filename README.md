@@ -14,7 +14,7 @@ The project serves both as a **portfolio piece** and a **hands-on playground** f
 
 ## 📚 Table of Contents
 
-1. [Introduction](#1. Introduction)  
+1. [Introduction](#1.Introduction)  
 2. [Database Structure](#2-database-structure)  
 3. [Data Import and Initialization](#3-data-import-and-initialization)  
 4. [Queries and Insights](#4-queries-and-insights)  

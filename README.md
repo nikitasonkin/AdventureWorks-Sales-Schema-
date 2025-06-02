@@ -1,10 +1,10 @@
-# AdventureWorks-Derived Sales Schema 🏗️
+# AdventureWorks-Derived Sales Schema 
 
 > **Author:** Nikita Sonkin  
 > **Base Dataset:** AdventureWorks 2022  
 > **License:** MIT
 
-## 📌 Project Purpose
+## Project Purpose
 
 This project presents the full process of building a relational database from scratch using SQL.  
 It includes structured schema creation, data population from AdventureWorks2022, and analytical SQL queries that demonstrate the schema’s capabilities.  
@@ -12,7 +12,7 @@ The project serves both as a **portfolio piece** and a **hands-on playground** f
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Introduction](#1-Introduction)  
 2. [Database Structure](#2-database-structure)  
@@ -141,7 +141,7 @@ Identifies recent hires in Manufacturing and QA departments.
 ## 6. References and Appendices
 
 ### 6.1 SQL Files
-- `project1.sql`: full DDL, data import, and 10 demo queries
+- [`AW-Sales.sql`](https://github.com/nikitasonkin/AdventureWorks-Sales-Schema-/blob/main/AW-Sales.sql)  : full DDL, data import, and 10 demo queries
 
 ### 6.2 Supporting Materials
 - Outputs were generated using SQL Server Management Studio (SSMS)  

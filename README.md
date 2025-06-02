@@ -14,7 +14,7 @@ The project serves both as a **portfolio piece** and a **hands-on playground** f
 
 ## 📚 Table of Contents
 
-1. [Introduction](#introduction)  
+1. [Introduction](#1. Introduction)  
 2. [Database Structure](#2-database-structure)  
 3. [Data Import and Initialization](#3-data-import-and-initialization)  
 4. [Queries and Insights](#4-queries-and-insights)  
@@ -23,7 +23,7 @@ The project serves both as a **portfolio piece** and a **hands-on playground** f
 
 ---
 
-## 1. 📖 Introduction
+## 1. Introduction
 
 ### 1.1 Project Overview
 This project simulates a complete relational database based on business domains such as sales, purchasing, production, and HR, using SQL and structured schemas.  
@@ -42,7 +42,7 @@ The architecture is clean, normalized, and enriched with real data from Adventur
 
 ---
 
-## 2. 🗂️ Database Structure
+## 2. Database Structure
 
 ### 2.1 Schemas
 The database includes 5 logical schemas, each organizing entities by business area:
@@ -67,7 +67,7 @@ For example:
 
 ---
 
-## 3. 🛠️ Data Import and Initialization
+## 3. Data Import and Initialization
 
 ### 3.1 Data Source
 The project uses real business data from **AdventureWorks2022**.  
@@ -79,7 +79,7 @@ This ensures correct references across foreign keys and maintains full data inte
 
 ---
 
-## 4. 📊 Queries and Insights
+## 4. Queries and Insights
 
 ### 4.1 Top 5 Products by Revenue
 Identifies the most profitable products by total sales.  
@@ -123,7 +123,7 @@ Identifies recent hires in Manufacturing and QA departments.
 
 ---
 
-## 5. 🧠 Summary and Conclusions
+## 5. Summary and Conclusions
 
 ### 5.1 Key Insights
 - Clear concentration of revenue in specific products and regions  
@@ -138,7 +138,7 @@ Identifies recent hires in Manufacturing and QA departments.
 
 ---
 
-## 6. 📎 References and Appendices
+## 6. References and Appendices
 
 ### 6.1 SQL Files
 - `project1.sql`: full DDL, data import, and 10 demo queries
